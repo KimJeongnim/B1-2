@@ -506,12 +506,12 @@ TripMindAI/
 ├── README.md
 ├── TripMindAI_Storyboard.pdf
 ├── TripMindAI.mp4
-├── images
-    ├── TripMindAI_Scene01_v01.png
-    ├── TripMindAI_Scene02_v01.png
-    ├── TripMindAI_Scene03_v01.png
-    └── TripMindAI_Scene04_v01.png
-└── videos
+├── images/
+│   ├── TripMindAI_Scene01_v01.png
+│   ├── TripMindAI_Scene02_v01.png
+│   ├── TripMindAI_Scene03_v01.png
+│   └── TripMindAI_Scene04_v01.png
+└── videos/
     ├── TripMindAI_Scene01_v01.mp4
     ├── TripMindAI_Scene02_v01.mp4
     ├── TripMindAI_Scene03_v01.mp4
